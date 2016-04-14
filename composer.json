@@ -1,0 +1,11 @@
+{
+  "name": "etdsolutions/sumoselect",
+  "description": "A jQuery Single/Multi Select plugin which can be used on almost any device",
+  "authors": [
+    {
+      "name": "Hemant Negi",
+      "email": "hemant.frnz@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
